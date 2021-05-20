@@ -4,7 +4,7 @@ Work - Save your Contact
 
 Frontend language - HTML, CSS(Bootstrap 4.6), JavaScript, jQuery, Ajax
 
-Backend language - Java 12
+Backend language - Java 11
 
 Database - Mysql 8.0.19
 
